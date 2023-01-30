@@ -1,0 +1,7 @@
+# for macs
+.DS_Store  
+
+# no/ because of workflow audit
+node_modules
+
+build/
